@@ -1,0 +1,7 @@
+1. Testes Funcionais testam o sistema do ponto de vista do usuário (externo),
+simulando ações reais no navegador. Testes de Unidade testam pequenas partes
+do código de forma isolada, do ponto de vista do desenvolvedor (interno).
+
+2. Testes Funcionais são mais lentos pois envolvem o navegador e o servidor.
+Testes de Unidade são mais rápidos pois testam apenas uma unidade de código
+sem depender de recursos externos.
